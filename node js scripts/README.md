@@ -4,3 +4,7 @@ Generate full spectrum of all possible colors into one [picture](./full_spectrum
 
 # [jaylydev Events get:](./jaylydev_Events_get.js)
 Get list of Minecraft Bedrock Script API event for my [Discrod Server](https://discord.gg/6z8ZPUdVTT) Bot.
+
+# [jaylydev messing example:](./jaylydev_messing_example.js)
+Check for messing code examples in a given class from jaylydev Minecraft Bedrock Script API docs.
+(he asked for feedback about messing code examples, so i made script for it)
