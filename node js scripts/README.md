@@ -1,1 +1,1 @@
-./full_spectrum.js
+# [full_spectrum](./full_spectrum.js).
